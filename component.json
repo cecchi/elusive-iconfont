@@ -1,0 +1,14 @@
+{
+    "name": "iconfont-elusive",
+
+    "fonts": [
+        "fonts/Elusive-Icons.eot",
+        "fonts/Elusive-Icons.svg",
+        "fonts/Elusive-Icons.ttf",
+        "fonts/Elusive-Icons.woff"
+    ],
+
+    "styles": [
+        "sass/elusive-webfont.scss"
+    ]
+}
