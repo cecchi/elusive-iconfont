@@ -9,6 +9,7 @@
     ],
 
     "styles": [
+        "sass/_variables.scss",
         "sass/elusive-webfont.scss"
     ]
 }
